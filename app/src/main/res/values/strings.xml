@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RicknMorty</string>
+    <string name="title_toolbar">Rick and Morty</string>
+    <string name="species">Species:</string>
+    <string name="status">Status:</string>
+    <string name="gender">Gender:</string>
+</resources>
